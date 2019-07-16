@@ -1,4 +1,4 @@
-Giovanni Bassi's vimfiles.
+Felipe Cardozo vimfiles.
 
 These are my personal vimfiles. Since I'm still learning to use vim, I advise you not to use it for anything :)
 
@@ -12,8 +12,8 @@ Installation instructions (Linux):
 
 Installation instructions (Windows, no Powershell):
 - git clone https://github.com/giggio/vimfiles.git ~/vimfiles
-- echo "source $($($env:HOME).Replace('\', '/'))/vimfiles/.vimrc" > ~/_vimrc
-- cd ~/.vim
+- echo "source $($($HOME).Replace('\', '/'))/vimfiles/.vimrc" > ~/_vimrc
+- cd ~/vimfiles
 - git submodule update --init
 
 This is a fork from Rafael Rosa Fu's vimfiles. Check out https://github.com/rafaelrosafu/vimfiles for his latest updates.
