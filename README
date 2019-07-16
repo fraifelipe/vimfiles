@@ -1,4 +1,4 @@
-Felipe Cardozo vimfiles.
+Felipe Cardozo's vimfiles.
 
 These are my personal vimfiles. Since I'm still learning to use vim, I advise you not to use it for anything :)
 
@@ -16,4 +16,4 @@ Installation instructions (Windows, no Powershell):
 - cd ~/vimfiles
 - git submodule update --init
 
-This is a fork from Rafael Rosa Fu's vimfiles. Check out https://github.com/rafaelrosafu/vimfiles for his latest updates.
+This is a fork from Giovanni Bassi's vimfiles. Check out https://github.com/giggio/vimfiles for his latest updates.
