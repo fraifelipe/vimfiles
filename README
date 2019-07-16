@@ -5,13 +5,13 @@ These are my personal vimfiles. Since I'm still learning to use vim, I advise yo
 I am using vim both on Ubuntu and Windows (in Windows it is preety much gVim, as vim refuses to work properly). Right now there are some nice bundles, like NERDTree and Coffeescript. I have been using vim mostly to do Ruby programming and script editing in general.
 
 Installation instructions (Linux):
-- git clone https://github.com/giggio/vimfiles.git ~/.vim
+- git clone https://github.com/fraifelipe/vimfiles ~/.vim
 - echo "source ~/.vim/.vimrc" > ~/.vimrc
 - cd ~/.vim
 - git submodule update --init
 
 Installation instructions (Windows, no Powershell):
-- git clone https://github.com/giggio/vimfiles.git ~/vimfiles
+- git clone https://github.com/fraifelipe/vimfiles ~/vimfiles
 - echo "source $($($HOME).Replace('\', '/'))/vimfiles/.vimrc" > ~/_vimrc
 - cd ~/vimfiles
 - git submodule update --init
